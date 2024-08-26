@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mauriciolavilla.ml
+Token: 4399c65d7754be8bb874df24156f728a9f15023d64c2d11bad2d2f8513b7fa76
