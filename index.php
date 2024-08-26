@@ -36,7 +36,7 @@
         <h1>Mauricio Lavilla</h1>
         <p class="lead">Full Stack Developer</p>
         <p><a href="mailto:contacto@mauricio.ml">contacto@mauricio.ml</a></p>
-        (ツ)
+        (ツ)daaaaaaaa
       </main>
       
       <!--
